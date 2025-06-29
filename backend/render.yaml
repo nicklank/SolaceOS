@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: solaceos-backend
+    env: python
+    buildCommand: ""
+    startCommand: gunicorn life_tracker.wsgi:application
+    envVars:
+      - key: DJANGO_SETTINGS_MODULE
+        value: life_tracker.settings
+      - key: SECRET_KEY
+        value: your-secret-key-here
+      - key: DEBUG
+        value: False
+databases:
+  - name: solaceos-db
