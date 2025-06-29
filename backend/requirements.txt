@@ -3,9 +3,6 @@ asgiref==3.8.1
 atomicwrites==1.4.0
 backports.weakref==1.0.post1
 brotlipy==0.7.0
-clyent==1.2.1
-conda-repo-cli==1.0.75
-conda-verify==3.4.2
 constantly==15.1.0
 cssselect==1.1.0
 datashape==0.5.4
@@ -26,9 +23,6 @@ psycopg2-binary==2.9.9
 pyarrow==11.0.0
 pyasn1-modules==0.2.8
 PyDispatcher==2.0.5
-pyls-spyder==0.4.0
-PyQt5==5.15.10
-PyQtWebEngine==5.15.6
 queuelib==1.5.0
 sqlparse==0.5.1
 webencodings==0.5.1
