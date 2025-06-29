@@ -5,7 +5,7 @@ backports.weakref==1.0.post1
 brotlipy==0.7.0
 constantly==15.1.0
 cssselect==1.1.0
-datashape==0.5.4
+datashape==0.5.2
 dj-database-url==3.0.0
 Django==5.0.7
 django-cors-headers==4.4.0
