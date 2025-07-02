@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SolaceOS/static/css/main.b7fe9b6a.css",
-    "main.js": "/SolaceOS/static/js/main.0d2eb9d0.js",
+    "main.js": "/SolaceOS/static/js/main.78179449.js",
     "static/js/453.0168ae36.chunk.js": "/SolaceOS/static/js/453.0168ae36.chunk.js",
     "index.html": "/SolaceOS/index.html",
     "main.b7fe9b6a.css.map": "/SolaceOS/static/css/main.b7fe9b6a.css.map",
-    "main.0d2eb9d0.js.map": "/SolaceOS/static/js/main.0d2eb9d0.js.map",
+    "main.78179449.js.map": "/SolaceOS/static/js/main.78179449.js.map",
     "453.0168ae36.chunk.js.map": "/SolaceOS/static/js/453.0168ae36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7fe9b6a.css",
-    "static/js/main.0d2eb9d0.js"
+    "static/js/main.78179449.js"
   ]
 }
