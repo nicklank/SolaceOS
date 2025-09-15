@@ -4,7 +4,7 @@
   publish = "build"      # output directory after build
 
 [build.environment]
-  NODE_VERSION = "20"
+  NODE_VERSION = "v16.20.2"
 
 # Redirects for React/Vue/other SPAs (prevents 404 on refresh)
 [[redirects]]
