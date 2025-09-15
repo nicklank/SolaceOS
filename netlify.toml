@@ -1,0 +1,13 @@
+[build]
+  base    = "frontend"   # where your package.json lives
+  command = "npm run build"
+  publish = "build"      # output directory after build
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Redirects for React/Vue/other SPAs (prevents 404 on refresh)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
